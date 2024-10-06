@@ -6,7 +6,7 @@
 
 <h2 align="left">About Me:</h2>
 
-<p align="left">My programing Experience:<br>💻I have been programing since 2024.<br>🏫 I have completed a full stack development bootcamp.<br>📚 I'm currently learning Typscript, React, Python.<br><br>Non Programing Experience:<br>🧙‍♂️ I have been using blender for 3 years.<br>👨‍🎨 I have graphics design with inkscape for 1 year.<br>🤵I have been teaching as a tutor for 2+ years.</p>
+<p align="left">My programing Experience:<br>💻I have been programing since 2024.<br>🏫 I have completed a full stack development bootcamp.<br>📚 I'm currently learning Typscript, React, Python.<br><br>Non Programing Experience:<br>🧙‍♂️ I have been using blender for 3 years.<br>👨‍🎨 I have done vector art with inkscape for 1 year.<br>🤵I have been teaching as a tutor for 2+ years.</p>
 
 <h2 align="left">My Coding Toolkit:</h2>
 
