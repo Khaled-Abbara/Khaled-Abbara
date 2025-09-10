@@ -5,4 +5,4 @@ Junior developer && Programming teacher && bootcamp instructor && university stu
 Hard Skills: Javascript, MySQL, Node.js, TypeScript, React, Python
 Soft Skills: Public speaking, live coding and explaining topics in simple terms
 
-Currently learning: Java, and multi threading in Java
+Currently learning: Java, digital circuit design
