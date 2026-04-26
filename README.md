@@ -1,9 +1,11 @@
-Hi, I’m Khaled 👋
+Hi, I’m Khaled
 
-Junior developer && Programming teacher && bootcamp instructor && university student
+Developer && Computer Science teacher && bootcamp instructor && university student
 
-Hard Skills: Javascript, MySQL, Node.js, TypeScript, React, Python, Java
+Hard Skills: Javascript, MySQL, Node.js, TypeScript, React, Python, Java, Firebase, Git, MongoDB.
 
-Soft Skills: Public speaking, live coding and explaining topics in simple terms
+Soft Skills: Public speaking, live coding, teaching, flirting.
 
-Currently learning: digital logic circuit design
+I love: digital logic circuit design, Machine learning.
+
+If you need something done, I can help because "I can be what you want me to be..."
